@@ -1,0 +1,8 @@
+---
+mysql_port: 3306
+dbname: ecomdb
+dbuser: ecomuser
+dbpassword: ecompassword
+httpd_port: 80
+repository: https://github.com/kodekloudhub/learning-app-ecommerce.git
+
