@@ -38,4 +38,7 @@ Here's how to deploy it on CentOS systems:
 ## Verification
 
 curl http://localhost
+or
+http://server_ip:http_port
+
 
