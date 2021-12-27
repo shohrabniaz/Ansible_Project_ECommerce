@@ -1,4 +1,4 @@
-- name: Deploy lamp stack application
+- name: Deploy ecommerce application
   yum:
     name:
       - libselinux-python
