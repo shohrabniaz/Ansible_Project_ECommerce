@@ -4,5 +4,5 @@ dbname: ecomdb
 dbuser: ecomuser
 dbpassword: ecompassword
 httpd_port: 80
-repository: https://github.com/kodekloudhub/learning-app-ecommerce.git
+repository: https://github.com/Debaice06/Ansible_Projects_Ecommerce.git
 
