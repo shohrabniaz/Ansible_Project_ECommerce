@@ -1,5 +1,5 @@
 -
   name: Project
-  hosts: Ansible-Client
+  hosts: NiazServer
   roles:
     - projects
